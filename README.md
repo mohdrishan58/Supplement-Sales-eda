@@ -36,3 +36,24 @@ impact across multiple platforms and locations.
 2. Install dependencies
    pip install pandas numpy matplotlib seaborn plotly
 3. Open the notebook in Jupyter
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Excel Dashboard
+An interactive Excel dashboard built from this dataset.
+
+![Dashboard Preview](supplement_dashboard.png)
+
+### How to Use
+1. Download `Supplement_Sales_Cleaned1.xlsx`
+2. Open in Microsoft Excel
+3. Use slicers to filter by Month, Platform, Location and Category
+
+### Dashboard Features
+- Sales by Category
+- Revenue Trend
+- Sales by Platform
+- Sales by Location
+- Top Products
