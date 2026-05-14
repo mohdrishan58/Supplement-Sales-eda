@@ -44,7 +44,7 @@ impact across multiple platforms and locations.
 ## Excel Dashboard
 An interactive Excel dashboard built from this dataset.
 
-![Dashboard Preview](supplement_dashboard.png)
+![Dashboard Preview](supplement_dashboard)
 
 ### How to Use
 1. Download `Supplement_Sales_Cleaned1.xlsx`
